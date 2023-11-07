@@ -77,19 +77,19 @@ To support the development of further work on detecting pretraining data contami
   | lambada.txt            | 5153  | 2x                |
   | mnli.jsonl             | 10000 | 2x                |
 
-- **Contam-Large** (774M Params) 
+- [**Contam-Large**](https://huggingface.co/yonatano/Contam-Large) (774M Params) 
 
   - Injected test sets same as Contam-1.4b.
 
-- **Contam-Medium** (355M Params)
+- [**Contam-Medium**](https://huggingface.co/yonatano/Contam-Medium) (355M Params)
 
   - Injected test sets same as Contam-1.4b.
 
-- **Contam-Small** (124M Params)
+- [**Contam-Small**](https://huggingface.co/yonatano/Contam-Small) (124M Params)
 
   - Injected test sets same as Contam-1.4b.
 
-- **Contam-1.4b-dupcount-higher**
+- [**Contam-1.4b-dupcount-higher**](https://huggingface.co/yonatano/Contam-1.4b-dupcount-higher)
 
   | Name                               | Size | Duplication Count (Higher Model) | Duplication Count (Lower Model) |
   | ---------------------------------- | ---- | -------------------------------- | ------------------------------- |
@@ -106,7 +106,7 @@ To support the development of further work on detecting pretraining data contami
 
   
 
-- **Contam-1.4b-dupcount-lower**
+- [**Contam-1.4b-dupcount-lower**](https://huggingface.co/yonatano/Contam-1.4b-dupcount-lower)
 
   - Injected test sets same as **Contam-1.4b-dupcount-higher**.
 
